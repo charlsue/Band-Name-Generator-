@@ -13,4 +13,5 @@ while True:
   if try_again == "y" or try_again == "Y": 
     continue
   else:
+  print("Bye")
     break
